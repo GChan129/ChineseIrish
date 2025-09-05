@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Watch My Latest YouTube Video"
-    link: "https://https://www.youtube.com/@ChineseIrish" # Replace with your YouTube channel or video link
+    link: "https://www.youtube.com/watch?v=KNOA1Xl1bKs" # Replace with your YouTube channel or video link
 
 # Features
 features:
